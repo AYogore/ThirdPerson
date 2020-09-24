@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 953370196}
   - component: {fileID: 953370197}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -338,6 +338,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   accelerationForce: 10
+  maxSpeed: 10
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
