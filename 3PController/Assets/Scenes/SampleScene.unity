@@ -923,7 +923,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7a2baaf8ed757d4397a2bb66d055349, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Default Message
+  message: Longer message duration type even longer message like a book that is really
+    long
   messageDuration: 1
 --- !u!114 &650113278
 MonoBehaviour:
@@ -2324,7 +2325,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1226882759}
-  m_LocalRotation: {x: 0.29257935, y: 0.11226459, z: -0.034611583, w: 0.94899744}
+  m_LocalRotation: {x: 0.29257935, y: 0.112264596, z: -0.034611583, w: 0.94899744}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2398,7 +2399,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1229617627}
-  m_LocalRotation: {x: 0.25791395, y: 0.113447756, z: -0.030510727, w: 0.95899904}
+  m_LocalRotation: {x: 0.25791395, y: 0.113447815, z: -0.030510746, w: 0.95899904}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
